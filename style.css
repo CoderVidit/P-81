@@ -1,0 +1,12 @@
+#canvas{
+border-width:10px;
+border-style:ridge;
+height:500px;
+background-color: white;
+}
+body{
+    background: url("Tokyo.jpg");
+}
+h1{
+color:red;
+}
